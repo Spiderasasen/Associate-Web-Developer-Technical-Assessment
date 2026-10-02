@@ -31,3 +31,10 @@ ok so I wonder why my api is not showing from either my app.ts code or my server
 - What I kept
   - I changed the typo error that it highlighted to me. which was very helpful since I was already very confused on why and i didn't see the typo that I wrote.
 
+# input 5
+So I got an error and I have no idea what it means, can you give me an explanation of it and possible fixes in TypeScript
+5173Access to fetch at 'http://localhost:3000/api/stocks/TSLA' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+- Why I asked this
+  - I asked this because I had no idea what the error meant
+- What I kept
+  - One of the options that Ai gave me was the that CORS was not in my app.ts. So i added and with the help of WebStorm ID, It automatically installed into the backend area of the code
