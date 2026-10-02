@@ -38,3 +38,13 @@ So I got an error and I have no idea what it means, can you give me an explanati
   - I asked this because I had no idea what the error meant
 - What I kept
   - One of the options that Ai gave me was the that CORS was not in my app.ts. So i added and with the help of WebStorm ID, It automatically installed into the backend area of the code
+
+# input 6
+can you make me a design for this code
+import './App.css'
+import {useState} from 'react'
+...
+- Why I asked this
+  - The main reason I asked this is because I am not good at making design. So asking Ai to make the design is always helpful.
+- What I kept
+  - I kept the whole css file that I was given
